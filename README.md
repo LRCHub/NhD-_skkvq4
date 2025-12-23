@@ -1,0 +1,86 @@
+# UVERworld – AVALANCHE(Album ver.)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.50] Are you ready to go new world
+[00:13.38] Creating new world
+[00:15.16] Creating new world
+[00:16.77] Are you ready to go new world
+[00:19.37] Living new world
+[00:20.64] Living new world
+[00:22.80] Are you ready to go new world
+[00:25.23] Creating new world
+[00:27.01] Creating new world
+[00:29.23] Come and see me now
+[00:32.14] Leading new world
+[00:33.15] Leading new world
+[00:41.65] 
+[00:37.44] A long night begin
+[00:40.01] 空埋め尽くす後悔
+[00:42.96] 遍く照らす光 探し 探し
+[00:48.96] 
+[00:49.29] リリカルなパーツで
+[00:52.56] 上げる反逆の狼煙
+[00:54.19] 無謀な思想が希望に変わる
+[01:00.19] 
+[00:59.18] Are you ready to go new world
+[01:01.56] Creating new world
+[01:03.18] Creating new world
+[01:12.18] 
+[01:05.05] Are you ready to go new world
+[01:07.62] Living new world
+[01:09.23] Living new world
+[01:17.23] 
+[01:11.48] Are you ready to go new world
+[01:13.08] Creating new world
+[01:14.45] Creating new world
+[01:23.45] 
+[01:17.16] Come and see me now
+[01:19.46] Leading new world
+[01:21.15] Leading new world
+[01:29.65] 
+[01:22.41] Are you ready?
+[01:23.36] Dawn breaking, just leave the dark night
+[01:28.11] It's a dark night
+[01:30.77] たとえあの辛い過去も
+[01:34.23] Dawn breaking, just leave the dark night
+[01:39.58] It's a dark night
+[01:42.21] たとえあの辛い過去も
+[01:46.54] Dawn breaking, just leave the dark night
+[02:06.54] 
+[01:55.42] A long night begin
+[01:57.61] 目に見えるものが事実
+[02:00.47] 目には見えないものが真実
+[02:06.47] 
+[02:07.97] 一度たりも見えたことのないもの信じてこれたのは
+[02:19.47] 
+[02:17.05] 闇に全てが包まれて見えなくとも
+[02:23.31] 誰の声も閉ざされて届かぬとも
+[02:28.97] 心ならば見えてたものがある
+[02:34.93] 心ならば聞こえてたものがある
+[02:41.93] 
+[02:40.69] Are you ready?
+[02:41.64] Dawn breaking, just leave the dark night
+[02:45.83] It's a dark night
+[02:48.38] たとえあの辛い過去も
+[02:53.29] Dawn breaking, just leave the dark night
+[02:56.80] It's a dark night
+[03:00.01] たとえあの辛い過去も
+[03:04.03] Dawn breaking, just leave the dark night
+[03:24.03] 
+[03:08.42] 一度たりも 見えたことのないもの信じてこれたのは
+[03:16.60] その笑顔が布で覆われ隠された日も
+[03:22.10] 君の姿が遠く離れ見えなくとも
+[03:29.06] 不安じゃなかったよ 此処に辿り着くまで
+[03:34.76] 目に見えたことない愛を信じてきたから
+[03:43.76] 
+[03:40.75] Are you ready?
+[03:41.41] Dawn breaking, just leave the dark night
+[03:46.38] It's a dark night
+[03:48.51] たとえあの辛い過去も
+[03:52.33] Dawn breaking, just leave the dark night
+[03:57.84] It's a dark night
+[04:00.85] たとえあの辛い過去も
+[04:04.42] Dawn breaking, just leave the dark night
+```
