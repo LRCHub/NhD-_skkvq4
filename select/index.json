@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "AVALANCHE(Album ver.)",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T06:13:05.613916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AVALANCHE(Album ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_AVALANCHE(Album_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AVALANCHE(Album ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_AVALANCHE(Album_ver.)_UVERworld.txt"
+    }
+  ]
+}
